@@ -3,3 +3,5 @@ btn.addEventListener('click', () => {
     const path = window.location.pathname;
   console.log(path);
 });
+
+
